@@ -3816,7 +3816,7 @@
                 "active": false
               },
               {
-                "tags": "Increíble",
+                "tags": "Carne",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3826,7 +3826,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Salsa Boloñesa",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Pasta",
@@ -3982,7 +3982,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Finguers",
-                "active": true
+                "active": false
               }
             ]
           }
